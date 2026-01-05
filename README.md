@@ -1,10 +1,27 @@
 ## Hi there 👋
 My name is Parin, and I'm a UT Austin electrical and computer engineering student interested in all things AI & Data Science 
 
-You'll find a few pinned repos below- I'm especially excited about my sensor fusion capstone right now.
+I enjoy working on projects where theory meets the real world, and where design decisions around data, models, and implementation have a meaningful impact.
+
+Right now, I’m most excited about the two projects pinned below:
+
+### 🔹 AI-Native 5G Digital Twin
+[ai-native-5G-digital-twin](https://github.com/parinpatel2103/ai-native-5G-digital-twin)
+
+Senior design project comparing AI-based receivers with classical signal processing techniques in 5G systems.  
+Uses ray-traced digital twins and realistic channel modeling to study coverage, interference, and receiver performance in complex environments.
+
+---
+
+### 🔹 Multi-Label Chest X-Ray Classification
+[chest-xray-multilabel-classification](https://github.com/parinpatel2103/chest-xray-multilabel-classification)
+
+Deep learning project for detecting multiple thoracic conditions from chest X-ray images using transfer learning.  
+Focuses on real-world ML workflows including dataset filtering, threshold tuning, evaluation metrics, and model interpretability with Grad-CAM.
 
 Why this work matters to me : 
 
-### 📫 Let's Connect
-LinkedIn: www.linkedin.com/in/parinpatel2103
-Email: parinpatel2103@gmail.com 
+### 📫 Let’s Connect
+- **LinkedIn:** [Parin Patel](https://www.linkedin.com/in/parinpatel2103)
+- **Email:** [parinpatel2103@gmail.com](mailto:parinpatel2103@gmail.com)
+
