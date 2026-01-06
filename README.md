@@ -19,7 +19,15 @@ Uses ray-traced digital twins and realistic channel modeling to study coverage, 
 Deep learning project for detecting multiple thoracic conditions from chest X-ray images using transfer learning.  
 Focuses on real-world ML workflows including dataset filtering, threshold tuning, evaluation metrics, and model interpretability with Grad-CAM.
 
-Why this work matters to me : 
+---
+
+### 🧠 Why I enjoy this kind of work
+I like projects where I can:
+- break down large problems into something testable  
+- learn by building and debugging  
+- understand *why* a model behaves the way it does
+
+---
 
 ### 📫 Let’s Connect
 - **LinkedIn:** [Parin Patel](https://www.linkedin.com/in/parinpatel2103)
