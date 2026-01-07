@@ -15,7 +15,7 @@ Right now, I’m most excited about the two projects pinned below:
 ---
 
 ### Multi-Label Chest X-Ray Classification
-- **Repo:** [chest-xray-multilabel-classification](https://github.com/parinpatel2103/chestxray-multilabel)
+- **Repo:** [chestxray-multilabel](https://github.com/parinpatel2103/chestxray-multilabel)
 - Multi-label chest X-ray classification with transfer learning and model interpretability.
 
   ---
