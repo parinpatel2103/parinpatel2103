@@ -22,7 +22,7 @@ Right now, I’m most excited about the two projects pinned below:
 
 ### Why I enjoy this kind of work
 I like projects where I can:
-- break down large problems into something testable  
+- break down large problems
 - learn by building and debugging  
 - understand *why* a model behaves the way it does  
 
