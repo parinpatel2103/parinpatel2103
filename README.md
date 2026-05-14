@@ -4,15 +4,20 @@ My name is Parin, and I'm a UT Austin electrical and computer engineering studen
 
 I enjoy working on projects where theory meets the real world.
 
-Right now, I’m most excited about the two projects pinned below:
+Right now, I’m most excited about the three projects pinned below:
 
 ---
 
-### AI-Native 5G Digital Twin
-- **Repo:** [ai-native-5G-digital-twin](https://github.com/parinpatel2103/ai-native-5G-digital-twin)  
-- AI-Native vs classical 5G receiver evaluation using a ray-traced digital twin.
-
+### Facade Segmentation Pipeline
+- **Repo:** [Facade-Pipeline](https://github.com/parinpatel2103/Facade-Pipeline)
+- Built a computer vision pipeline that converts real-world building photos into segmented 3D facade meshes for Blender and NVIDIA Sionna RF simulation using Grounding DINO, SAM, Docker, and physics-based ray tracing workflows.
 ---
+
+### College Application Data Platform
+- **Repo:** [college-application-data-platform](https://github.com/parinpatel2103/college-application-data-platform)
+- Backend-focused Django + Pandas system for ingesting and managing student college application data, featuring relational data modeling, CSV ingestion pipelines, archival logic, and automated testing with pytest.
+
+  ---
 
 ### Multi-Label Chest X-Ray Classification
 - **Repo:** [chestxray-multilabel](https://github.com/parinpatel2103/chestxray-multilabel)
