@@ -10,6 +10,7 @@ Right now, I’m most excited about the three projects pinned below:
 
 ### Facade Segmentation Pipeline
 - **Repo:** [Facade-Pipeline](https://github.com/parinpatel2103/Facade-Pipeline)
+  
 - Built a computer vision pipeline that converts real-world building photos into segmented 3D facade meshes for Blender and NVIDIA Sionna RF simulation using Grounding DINO, SAM, Docker, and physics-based ray tracing workflows.
 ---
 
