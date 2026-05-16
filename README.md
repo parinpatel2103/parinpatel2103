@@ -11,12 +11,12 @@ Right now, I’m most excited about the three projects pinned below:
 ### Facade Segmentation Pipeline
 - **Repo:** [Facade-Pipeline](https://github.com/parinpatel2103/Facade-Pipeline)
   
-- Built a computer vision pipeline that converts real-world building photos into segmented 3D facade meshes for Blender and NVIDIA Sionna RF simulation using Grounding DINO, SAM, Docker, and physics-based ray tracing workflows.
+- Built a facade pipeline using Grounding DINO and SAM to generate 3D building meshes for RF simulations.
 ---
 
 ### College Application Data Platform
 - **Repo:** [college-application-data-platform](https://github.com/parinpatel2103/college-application-data-platform)
-- Backend-focused Django + Pandas system for ingesting and managing student college application data, featuring relational data modeling, CSV ingestion pipelines, archival logic, and automated testing with pytest.
+- Backend-focused Django and Pandas system for student application data management, CSV ingestion, and pytest testing.
 
   ---
 
