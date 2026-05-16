@@ -11,7 +11,7 @@ Right now, I’m most excited about the three projects pinned below:
 ### Facade Segmentation Pipeline
 - **Repo:** [Facade-Pipeline](https://github.com/parinpatel2103/Facade-Pipeline)
   
-- Built a facade pipeline using Grounding DINO and SAM to generate 3D building meshes for RF simulations.
+- Built a facade segmentation pipeline using Grounding DINO and SAM to generate 3D building meshes for RF simulations.
 ---
 
 ### College Application Data Platform
